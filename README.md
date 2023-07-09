@@ -1,5 +1,5 @@
 # ContentGenerator
-GUI based content generator given the specific keyword using gpt api
+GUI based content generator given the specific keyword using OPEN AI GPT API.
 
 Instructions on how to set up environment variable
 
