@@ -19,8 +19,6 @@ def generate_content():
         logprobs=0
     )
 
-    # # Print the response JSON for debugging
-    # print(response)
 
     try:
         # Get the generated content from the API response
