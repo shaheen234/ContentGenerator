@@ -18,8 +18,6 @@ def generate_content():
         n=1,
         logprobs=0
     )
-
-
     try:
         # Get the generated content from the API response
         completions = response.choices
